@@ -1,0 +1,1 @@
+[{"label": "king", "confidence": 0.13, "topleft": {"x": 113, "y": 233}, "bottomright": {"x": 265, "y": 424}}, {"label": "queen", "confidence": 0.13, "topleft": {"x": 44, "y": 238}, "bottomright": {"x": 142, "y": 438}}, {"label": "jack", "confidence": 0.42, "topleft": {"x": 104, "y": 236}, "bottomright": {"x": 278, "y": 417}}]
